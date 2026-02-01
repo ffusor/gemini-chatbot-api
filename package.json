@@ -1,5 +1,5 @@
 {
-  "name": "gemini-flash-api",
+  "name": "gemini-chatbot-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
   "description": "",
   "dependencies": {
     "@google/genai": "^1.38.0",
+    "cors": "^2.8.6",
     "dotenv": "^17.2.3",
-    "express": "^5.2.1",
-    "multer": "^2.0.2"
+    "express": "^5.2.1"
   }
 }
